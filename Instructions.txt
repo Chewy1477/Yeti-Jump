@@ -1,7 +1,0 @@
-Welcome to Yeti Jump!
-The goal of the game is to collect 10 points. 
-Gold coins give you 1 point while the moving red coins subtract 5 points and a life.
-This game is similar to Doodle Jump and has the character jump on platforms on a moving screen.
-Jumping off the sides of falling below the screen will subtract one of your lives. 
-You have three lives.
-Space to jump and arrow keys to move.
